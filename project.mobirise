@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam-clone-clone",
-    "currentPage": "contacto.html",
+    "currentPage": "quiropractica.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -59,7 +59,7 @@
     "google-analytics": "",
     "cookiesAlert": "Utilizamos cookies para el buen funcionamiento de la web.  <a href='cookies.html'>Política de Cookies</a>.",
     "gdpr": "Acpeto la ley de protección de datos RGPD<a href='legal.html'> ver RGPD</a>",
-    "siteUrl": "",
+    "siteUrl": "https://manuhesam.com",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
