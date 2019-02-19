@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam-clone-clone",
-    "currentPage": "actividades-eventos.html",
+    "currentPage": "contacto.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,7 +61,10 @@
     "gdpr": "Acpeto la ley de protección de datos RGPD<a href='legal.html'> ver RGPD</a>",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
@@ -69,7 +72,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "▷ Centro Quiropráctico Barcelona, Coaching, Nutrición. 10% de descuento primera cita. Mejoramos tu bienestar corporal y mental Av.Diagonal, 427  ☎ Tel. 93 237 11 49",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>\n",
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1134,7 +1137,7 @@
         "meta_descr": "Centro Coaching Barcelona  y París -Mentoring y Acompañamiento de élite, Directivos, Deportistas, Artistas, CEOs, altos mandos, grupos. Dr. Manu Mahan Hesam. ☎ Tel. 93 237 11 49",
         "title": "Coaching",
         "order": 11,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -3287,7 +3290,7 @@
         "meta_descr": "Manu Mahan Hesam -> Biografía.  D.C. of Chiropractic, Mentoring y Acompañamiento personal de élite, experto en Coaching terapéutico SANE.",
         "title": "Dr. Manu Hesam",
         "order": 2,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -4023,7 +4026,7 @@
         "meta_descr": " Centro Nutricional y dietética en Barcelona. 10% de descuento primera cita. Mejoramos tu bienestar de forma notable. Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Nutrición",
         "order": 12,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -7060,7 +7063,7 @@
         "meta_descr": "Centro Quiropráctico Barcelona, Coaching y Nutrición. El espacio y las salas. Mejoramos tu bienestar. Av. Diagonal, 427, 1º 2ª.  ☎ 93 237 11 49",
         "title": "El espacio",
         "order": 3,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -7885,7 +7888,7 @@
         "meta_descr": "La Columna Vertebral -  Información relevante y de interés. Centro quiropáctico Barcelona \"Manu Mahan Hesam\" - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Columna Vertebral",
         "order": 6,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -9280,7 +9283,7 @@
         "meta_descr": "El Ajuste Quirpráctico - Información relevante y de interés. Centro Quiropáctico Barcelona. - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "El ajuste Quiropráctico",
         "order": 7,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -11367,7 +11370,7 @@
         "meta_descr": "Los beneficios de la quirpráctica - Información relevante y de interés. Centro Quiropáctico Barcelona - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Los Beneficios",
         "order": 9,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -12132,7 +12135,7 @@
         "meta_descr": "Quirpráctica dolencias que pueden tratarse - Información relevante y de interés. Centro quiropáctico Barcelona.  Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Podemos ayudarte, Patologias.",
         "order": 10,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -14110,7 +14113,7 @@
         "meta_descr": "Quirpráctica plan de tratamiento - Información relevante y de interés. Centro Quiropáctico Barcelona - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Plan de Tratamiento",
         "order": 8,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -14852,7 +14855,7 @@
         "meta_descr": "¿Qué es la Quirporáctica? - Información relevante y de interés. Centro quiropáctico Barcelona \"Manu Mahan Hesam\" Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Qué es la quirpráctica",
         "order": 5,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -16397,7 +16400,7 @@
         "meta_descr": "Actividades, eventos, reuniones quirporáctias en Barcelona y París. El Quirpráctico - Mejoramos tu bienestar corporal y mental - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Actividades-eventos",
         "order": 15,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -16978,13 +16981,13 @@
           "_name": "header3",
           "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"100\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#232323\" condition=\"gradientBg && bg.type == 'color'\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/mbr-1014x652.jpg\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\">\n                    Entrevista del portal vidasana.org al doctor Manu Mahan Hesam</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-7\">El Dr. Manu Hesam es doctor en Quiropráctica, un título reconocido mundialmente en el campo de la quiropráctica y de la salud. Después de 6 años de estudio, se especializó durante 4 años más en trastornos neuroemocionales crónicos, problemas de hernia discal, problemas de metabolismo y en vértigos y mareos, entre otros...<br></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"http://vidasana.org/noticias/centro-quiroprctico-de-bcndr-hesam-nuestro-cuerpo-tiene-una-farmacia-interna-y-una-inteligencia-innata\" data-app-placeholder=\"Type Text\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Leer toda la entrevista</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "rirKaGXVa0",
+          "_anchor": "header3-hn",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header3-hn",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "_styles": {
@@ -17048,7 +17051,7 @@
         "meta_descr": "Contacto Centro Quiropráctico Barcelona, Coaching, Nutrición.  Mejoramos el bienestar de las personas -  Av. Diagonal, 427, 1º 2ª.  ☎ Tel. 93 237 11 49",
         "title": "Contacto",
         "order": 16,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -17823,7 +17826,7 @@
         "meta_descr": "Testimonios y experiencias de ajustes quirporáctios de clientes en Barcelona y París.  Mejoramos tu bienestar corporal y mental - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Testimonos",
         "order": 14,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
@@ -20511,7 +20514,7 @@
         "meta_descr": "La Quiropráctica. Centro quiropáctico Barcelona \"Manu Mahan Hesam\"  10% de Descuento en la primera cita - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Centro Quiropáctico",
         "order": 4,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
+        "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
         {
