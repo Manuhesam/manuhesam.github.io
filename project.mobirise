@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam-clone-clone",
-    "currentPage": "coaching.html",
+    "currentPage": "404.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Gilda+Display:400"
       }
     ],
-    "uniqCompNum": 636,
+    "uniqCompNum": 639,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1136,7 +1136,7 @@
       "settings": {
         "meta_descr": "Centro Coaching Barcelona  y París -Mentoring y Acompañamiento de élite, Directivos, Deportistas, Artistas, CEOs, altos mandos, grupos. Dr. Manu Mahan Hesam. ☎ Tel. 93 237 11 49",
         "title": "Coaching",
-        "order": 11,
+        "order": 10,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -3289,7 +3289,7 @@
       "settings": {
         "meta_descr": "Manu Mahan Hesam -> Biografía.  D.C. of Chiropractic, Mentoring y Acompañamiento personal de élite, experto en Coaching terapéutico SANE.",
         "title": "Dr. Manu Hesam",
-        "order": 2,
+        "order": 1,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -4025,7 +4025,7 @@
       "settings": {
         "meta_descr": " Centro Nutricional y dietética en Barcelona. 10% de descuento primera cita. Mejoramos tu bienestar de forma notable. Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Nutrición",
-        "order": 12,
+        "order": 11,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -5377,7 +5377,7 @@
       "settings": {
         "meta_descr": "Política de Cookies.",
         "title": "Z-cookies",
-        "order": 17,
+        "order": 15,
         "header_custom": "<meta name=\"googlebot\" content=\"noindex\">"
       },
       "components": [
@@ -6512,7 +6512,7 @@
       "settings": {
         "meta_descr": "Información Legal.",
         "title": "Z-legal",
-        "order": 18,
+        "order": 16,
         "header_custom": "<meta name=\"googlebot\" content=\"noindex\">"
       },
       "components": [
@@ -7062,7 +7062,7 @@
       "settings": {
         "meta_descr": "Centro Quiropráctico Barcelona, Coaching y Nutrición. El espacio y las salas. Mejoramos tu bienestar. Av. Diagonal, 427, 1º 2ª.  ☎ 93 237 11 49",
         "title": "El espacio",
-        "order": 3,
+        "order": 2,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -7887,7 +7887,7 @@
       "settings": {
         "meta_descr": "La Columna Vertebral -  Información relevante y de interés. Centro quiropáctico Barcelona \"Manu Mahan Hesam\" - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Columna Vertebral",
-        "order": 6,
+        "order": 5,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -9282,7 +9282,7 @@
       "settings": {
         "meta_descr": "El Ajuste Quirpráctico - Información relevante y de interés. Centro Quiropáctico Barcelona. - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "El ajuste Quiropráctico",
-        "order": 7,
+        "order": 6,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -11369,7 +11369,7 @@
       "settings": {
         "meta_descr": "Los beneficios de la quirpráctica - Información relevante y de interés. Centro Quiropáctico Barcelona - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Los Beneficios",
-        "order": 9,
+        "order": 8,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -12134,7 +12134,7 @@
       "settings": {
         "meta_descr": "Quirpráctica dolencias que pueden tratarse - Información relevante y de interés. Centro quiropáctico Barcelona.  Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Podemos ayudarte, Patologias.",
-        "order": 10,
+        "order": 9,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -14112,7 +14112,7 @@
       "settings": {
         "meta_descr": "Quirpráctica plan de tratamiento - Información relevante y de interés. Centro Quiropáctico Barcelona - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Plan de Tratamiento",
-        "order": 8,
+        "order": 7,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -14854,7 +14854,7 @@
       "settings": {
         "meta_descr": "¿Qué es la Quirporáctica? - Información relevante y de interés. Centro quiropáctico Barcelona \"Manu Mahan Hesam\" Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Qué es la quirpráctica",
-        "order": 5,
+        "order": 4,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -16399,7 +16399,7 @@
       "settings": {
         "meta_descr": "Actividades, eventos, reuniones quirporáctias en Barcelona y París. El Quirpráctico - Mejoramos tu bienestar corporal y mental - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Actividades-eventos",
-        "order": 15,
+        "order": 13,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -17050,7 +17050,7 @@
       "settings": {
         "meta_descr": "Contacto Centro Quiropráctico Barcelona, Coaching, Nutrición.  Mejoramos el bienestar de las personas -  Av. Diagonal, 427, 1º 2ª.  ☎ Tel. 93 237 11 49",
         "title": "Contacto",
-        "order": 16,
+        "order": 14,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -17825,7 +17825,7 @@
       "settings": {
         "meta_descr": "Testimonios y experiencias de ajustes quirporáctios de clientes en Barcelona y París.  Mejoramos tu bienestar corporal y mental - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Testimonos",
-        "order": 14,
+        "order": 12,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -20513,7 +20513,7 @@
       "settings": {
         "meta_descr": "La Quiropráctica. Centro quiropáctico Barcelona \"Manu Mahan Hesam\"  10% de Descuento en la primera cita - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Centro Quiropáctico",
-        "order": 4,
+        "order": 3,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -21765,6 +21765,82 @@
           "_global": true,
           "_once": true,
           "_params": {}
+        }
+      ]
+    },
+    "404.html": {
+      "settings": {
+        "meta_descr": "Lo sentimos, no podemos encontrar lo que buscas",
+        "title": "404",
+        "order": 17,
+        "header_custom": "<meta name=”robots” content=”noindex, nofollow”>"
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            "H1": {
+              "color": "#149dcc"
+            }
+          },
+          "_name": "header16",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-1920x1278.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Lo sentimos, <br>no podemos encontrar lo que buscas</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"index.html\" data-app-placeholder=\"Type Text\">Ir al inicio</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "riDp4pn9CS",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header16-hq"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#232323"
+            },
+            "a, p": {
+              "font-family": "\"font\", sans-serif",
+              "font-size": ".9rem",
+              "font-weight": "300",
+              "line-height": "1.25rem",
+              "color": "rgba(0, 0, 0, 0.9) !important"
+            },
+            ".media-container-row .mbr-text SPAN": {
+              "color": "#0a0a0a"
+            },
+            "a.text-black:hover, a.text-black:focus": {
+              "color": "#0f7699!important"
+            }
+          },
+          "_name": "footer6",
+          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <footer div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12 mbri-rocket mbr-iconfont mbr-iconfont-btn\">\n                \n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><span style=\"color: #3782c8;\">&nbsp;&nbsp;</span><a href=\"legal.html\" class=\"text-black\">AVISO LEGAL</a> · <a href=\"legal.html\" class=\"text-black\">POLÍTICA LEGAL</a>&nbsp;/&nbsp;<a href=\"cookies.html\" class=\"text-black\">COOKIES</a>&nbsp;<br>Copyright © 2019 - Manu Mahan Hesam<br>\n                </p>\n            </div>\n        </div>\n    </footer>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "r5wN7NwAxH",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": true,
+          "_params": {},
+          "_anchor": "footer6-hp"
         }
       ]
     }
