@@ -21803,44 +21803,6 @@
           "_once": false,
           "_params": {},
           "_anchor": "header16-hq"
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-container-row .mbr-text": {
-              "color": "#232323"
-            },
-            "a, p": {
-              "font-family": "\"font\", sans-serif",
-              "font-size": ".9rem",
-              "font-weight": "300",
-              "line-height": "1.25rem",
-              "color": "rgba(0, 0, 0, 0.9) !important"
-            },
-            ".media-container-row .mbr-text SPAN": {
-              "color": "#0a0a0a"
-            },
-            "a.text-black:hover, a.text-black:focus": {
-              "color": "#0f7699!important"
-            }
-          },
-          "_name": "footer6",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <footer div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12 mbri-rocket mbr-iconfont mbr-iconfont-btn\">\n                \n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><span style=\"color: #3782c8;\">&nbsp;&nbsp;</span><a href=\"legal.html\" class=\"text-black\">AVISO LEGAL</a> · <a href=\"legal.html\" class=\"text-black\">POLÍTICA LEGAL</a>&nbsp;/&nbsp;<a href=\"cookies.html\" class=\"text-black\">COOKIES</a>&nbsp;<br>Copyright © 2019 - Manu Mahan Hesam<br>\n                </p>\n            </div>\n        </div>\n    </footer>\n</section>",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "r5wN7NwAxH",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": true,
-          "_params": {},
-          "_anchor": "footer6-hp"
         }
       ]
     }
