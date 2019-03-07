@@ -54,7 +54,7 @@
     "uniqCompNum": 644,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "Utilizamos cookies para el buen funcionamiento de la web.  <a href='cookies.html'>Política de Cookies</a>.",
