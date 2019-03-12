@@ -71,7 +71,7 @@
       "settings": {
         "main": true,
         "title": "Quiropráctico Barcelona | Centro Quiropráctico [93 237 11 49]",
-        "meta_descr": "Centro Quiropractico Barcelona Nº 1,  Mejoramos tu vida  en Quiropráctico Barcelona ✅ 10% descuento en tu 1ª Cita.¡Llámanos ahora! ☎ 910 236 265.",
+        "meta_descr": "Centro Quiropractico Barcelona Nº 1,  Mejoramos tu vida en Quiropráctico Barcelona ✅ 10% descuento en tu 1ª Cita.¡Llámanos ahora! ☎ 910 236 265.",
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>\n",
         "footer_custom": "",
         "html_before": ""
