@@ -71,7 +71,7 @@
       "settings": {
         "main": true,
         "title": "Quiropráctico Barcelona | Centro Quiropráctico [93 237 11 49]",
-        "meta_descr": "Centro Quiropractico Madrid Nº 1,  Mejoramos tu vida  en Quiropráctico Barcelona ✅ 10% descuento en tu 1ª Cita.¡Llámanos ahora! ☎ 910 236 265.",
+        "meta_descr": "Centro Quiropractico Barcelona Nº 1,  Mejoramos tu vida  en Quiropráctico Barcelona ✅ 10% descuento en tu 1ª Cita.¡Llámanos ahora! ☎ 910 236 265.",
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>\n",
         "footer_custom": "",
         "html_before": ""
@@ -1178,7 +1178,7 @@
       "settings": {
         "meta_descr": "Coaching Barcelona ☝. Expertos en Coaching profesional en Barcelona. Metodología integral y programas personalizados, Directivos, Deportistas, Artistas, CEOs.",
         "title": "Coaching Barcelona  | Profesionales en Coaching Personal",
-        "order": 10,
+        "order": 11,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -3351,7 +3351,7 @@
       "settings": {
         "meta_descr": "Manu Mahan Hesam -> Biografía.  D.C. of Chiropractic, Mentoring y Acompañamiento personal de élite, experto en Coaching terapéutico SANE.",
         "title": "Dr. Manu Hesam",
-        "order": 1,
+        "order": 2,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -7124,7 +7124,7 @@
       "settings": {
         "meta_descr": "Centro Quiropráctico Barcelona, Coaching y Nutrición. El espacio y las salas. Mejoramos tu bienestar. Av. Diagonal, 427, 1º 2ª.  ☎ 93 237 11 49",
         "title": "El espacio",
-        "order": 2,
+        "order": 3,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -7949,7 +7949,7 @@
       "settings": {
         "meta_descr": "La Columna Vertebral -  Información relevante y de interés. Centro quiropáctico Barcelona \"Manu Mahan Hesam\" - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Columna Vertebral",
-        "order": 5,
+        "order": 6,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -9344,7 +9344,7 @@
       "settings": {
         "meta_descr": "El Ajuste Quirpráctico - Información relevante y de interés. Centro Quiropáctico Barcelona. - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "El ajuste Quiropráctico",
-        "order": 6,
+        "order": 7,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -11431,7 +11431,7 @@
       "settings": {
         "meta_descr": "Los beneficios de la quirpráctica - Información relevante y de interés. Centro Quiropáctico Barcelona - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Los Beneficios",
-        "order": 8,
+        "order": 9,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -12196,7 +12196,7 @@
       "settings": {
         "meta_descr": "Quirpráctica dolencias que pueden tratarse - Información relevante y de interés. Centro quiropáctico Barcelona.  Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Podemos ayudarte, Patologias.",
-        "order": 9,
+        "order": 10,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -14174,7 +14174,7 @@
       "settings": {
         "meta_descr": "Quirpráctica plan de tratamiento - Información relevante y de interés. Centro Quiropáctico Barcelona - Manu Mahan Hesam - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Plan de Tratamiento",
-        "order": 7,
+        "order": 8,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -14916,7 +14916,7 @@
       "settings": {
         "meta_descr": "¿Qué es la Quirporáctica? - Información relevante y de interés. Centro quiropáctico Barcelona \"Manu Mahan Hesam\" Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Qué es la quirpráctica",
-        "order": 4,
+        "order": 5,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -20535,7 +20535,7 @@
       "settings": {
         "meta_descr": "La Quiropráctica. Centro quiropáctico Barcelona \"Manu Mahan Hesam\"  10% de Descuento en la primera cita - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Centro Quiropráctico Barcelona Diagonal",
-        "order": 3,
+        "order": 4,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
