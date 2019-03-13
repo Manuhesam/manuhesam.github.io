@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam",
-    "currentPage": "coaching.html",
+    "currentPage": "quiropractica.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Gilda+Display:400"
       }
     ],
-    "uniqCompNum": 646,
+    "uniqCompNum": 648,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -20533,7 +20533,7 @@
     },
     "quiropractica.html": {
       "settings": {
-        "meta_descr": "La Quiropráctica. Centro quiropáctico Barcelona \"Manu Mahan Hesam\"  10% de Descuento en la primera cita - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
+        "meta_descr": " Centro quiropáctico Barcelona \"Manu Mahan Hesam\"  10% de Descuento en la primera cita - Av. Diagonal, 427,  ☎ Tel. 93 237 11 49",
         "title": "Centro Quiropráctico Barcelona Diagonal",
         "order": 4,
         "header_custom": "<meta http-equiv=”Content-Language” content=”es”/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
@@ -21660,6 +21660,195 @@
           "_isUserblock": true,
           "_sourceTheme": "hotelm4",
           "_cid": "r6mkyE9SF6",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@scaleImg)": {
+              ".card .card-img": {
+                "overflow": "hidden",
+                "img": {
+                  "transition": "all .5s"
+                },
+                "&:hover": {
+                  "img": {
+                    "transform": "scale3d(1.1, 1.1, 1.1)",
+                    "-webkit-transform": "scale3d(1.1, 1.1, 1.1)"
+                  }
+                }
+              }
+            },
+            ".underline": {
+              ".line": {
+                "width": "2rem",
+                "height": "1px",
+                "background": "@underlineColor",
+                "display": "inline-block"
+              }
+            },
+            ".card": {
+              "height": "100%",
+              ".card-wrapper": {
+                "height": "100%",
+                ".card-img": {
+                  "border-radius": "0"
+                }
+              },
+              ".card-box": {
+                "background": "@cardBg",
+                "padding": "1.2rem",
+                ".card-title": {
+                  "margin": "0"
+                }
+              },
+              ".info-wrapper": {
+                "display": "-webkit-inline-flex",
+                "align-items": "center",
+                "-webkit-align-items": "center",
+                ".mbr-iconfont": {
+                  "padding-right": ".5rem",
+                  "font-size": "20px"
+                },
+                ".info-text": {
+                  "display": "inline-block",
+                  "padding-right": "1rem",
+                  "margin": "0"
+                }
+              },
+              ".card-btn .btn": {
+                "margin-left": "4px !important",
+                "margin-right": "4px !important"
+              },
+              ".card-footer": {
+                "background": "@cardBg",
+                "margin-top": "1rem",
+                "padding": "0",
+                "padding-top": "1rem",
+                "display": "-webkit-inline-flex",
+                "width": "100%",
+                "justify-content": "space-between",
+                "align-items": "center",
+                "-webkit-justify-content": "space-between",
+                "-webkit-align-items": "center",
+                ".icons-list": {
+                  "margin": "0",
+                  "li": {
+                    "margin-right": "1rem",
+                    ".mbr-iconfont": {
+                      "font-size": "25px",
+                      "color": "#767676"
+                    }
+                  }
+                },
+                ".link": {
+                  ".link-text": {
+                    "display": "inline-block"
+                  },
+                  ".mbr-iconfont": {
+                    "font-size": "12px"
+                  }
+                }
+              }
+            },
+            "& when (@showBorders)": {
+              ".card-box": {
+                "border-style": "solid",
+                "border-color": "@bordersColor",
+                "border-width": "0 1px 1px 1px"
+              },
+              ".card-footer": {
+                "border-top": "1px solid @bordersColor"
+              }
+            },
+            "& when not (@showBorders)": {
+              ".card-footer": {
+                "border": "none"
+              }
+            },
+            ".mbri-arrow-next": {
+              "color": "#709faf"
+            },
+            "@media (max-width: 767px)": {
+              ".card:not(:last-child)": {
+                "padding-bottom": "2rem"
+              },
+              ".card .card-box": {
+                "padding": "0.8rem!important"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".card:not(:last-child)": {
+                "padding-bottom": "2rem"
+              }
+            },
+            ".card-title, .card-info": {
+              "text-align": "center"
+            },
+            ".card-text, .card-btn": {
+              "text-align": "center"
+            },
+            "hr.separator": {
+              "width": "100%",
+              "border": "0",
+              "height": "1px",
+              "position": "relative",
+              "background-color": "#cccccc",
+              "margin-top": "10px",
+              "margin-bottom": "18px",
+              "text-align": "center",
+              "margin-left": "0",
+              "overflow": "visible"
+            },
+            "hr.separator:after": {
+              "content": "''",
+              "background-color": "#3782c8",
+              "height": "5px",
+              "width": "5px",
+              "position": "absolute",
+              "top": "-2px",
+              "box-shadow": "0 0 0px 4px #FFF",
+              "-webkit-transform": "rotate(45deg)",
+              "-moz-transform": "rotate(45deg)",
+              "transform": "rotate(45deg)"
+            },
+            ".btn-lg": {
+              "padding": "0.8rem 2.2rem"
+            },
+            ".card .card-box": {
+              "border-radius": "0px 0px 14px 14px"
+            },
+            ".card-img": {
+              "border-radius": "5px 5px 0px 0px!important"
+            },
+            ".info-text": {
+              "text-align": "center"
+            },
+            ".info-text B": {
+              "color": "#0f7699"
+            },
+            ".mar": {
+              "margin": "-5px"
+            }
+          },
+          "_name": "features15",
+          "_customHTML": "<section class=\"mbr-section features15\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Arriba\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Abajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Subtítulo\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Mostrar Subrayado\" name=\"showUnderline\" checked condition=\"showSubtitle\">\n        <input type=\"color\" title=\"Color del Subrayado\" name=\"underlineColor\" value=\"#878787\" condition=\"showUnderline && showSubtitle\">\n        <input type=\"range\" inline title=\"Nº Tarjetas\" name=\"cardsAmount\" min=\"1\" max=\"3\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Escalar Imagen al Acercar el Ratón\" name=\"scaleImg\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Título de Tarjeta\" name=\"showCardTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Información\" name=\"showInfo\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Mostrar Botones\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Iconos 1ª Tarjeta\" name=\"iconsCountFirst\" min=\"0\" max=\"5\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Iconos 2ª Tarjeta\" name=\"iconsCountSecond\" min=\"0\" max=\"5\" step=\"1\" value=\"0\" condition=\"cardsAmount > 1\">\n        <input type=\"range\" inline title=\"Iconos 3ª Tarjeta\" name=\"iconsCountThird\" min=\"0\" max=\"5\" step=\"1\" value=\"0\" condition=\"cardsAmount > 2\">\n        <input type=\"checkbox\" title=\"Mostrar Bordes\" name=\"showBorders\" checked>\n        <input type=\"color\" title=\"Color de los Bordes\" name=\"bordersColor\" value=\"#efefef\" condition=\"showBorders\">\n        <input type=\"color\" title=\"Color BG de la Tarjeta\" name=\"cardBg\" value=\"#f9feff\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Imagen de Fondo\" value parallax> \n            <input type=\"color\" title=\"Color de Fondo\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Vídeo de Fondo\" value=\"https://www.youtube.com/watch?v=2jqUN6d6ZyM\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Superposición\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Color de Superposición\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacidad\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-subtitle main-subtitle mbr-fonts-style mbr-lighter align-center\" mbr-class=\"{'pb-3': !showUnderline}\" mbr-theme-style=\"display-4\" mbr-if=\"showSubtitle\" data-app-selector=\".main-subtitle, .underline\">\n            HOTEL LUXURY\n        </h3>\n\n        <div class=\"underline align-center pb-3\" mbr-if=\"showUnderline && showSubtitle\">\n            <div class=\"line\"></div>\n        </div>\n    \n        <h2 class=\"mbr-section-title main-title mbr-fonts-style mbr-white align-center pb-5\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".main-title\">\n            Nuestras Habitaciones\n        </h2>\n        <div class=\"row justify-content-center\">\n            <div class=\"card col-md-10\" mbr-class=\"{'col-lg-8': cardsAmount == 3,\n                             'col-lg-6': cardsAmount == 2,\n                             'col-lg-4': cardsAmount == 1}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <a href=\"testimonios.html\"><img src=\"@PROJECT_PATH@/assets/images/1-1024x768.jpg\" alt=\"Testimonios Pacientes Quiropráctico Barcelona\" title=\"Testimonios de los pacientes en la consulta\"></a>\n                    </div>\n                    <div class=\"card-box\" mbr-if=\"showCardTitle || showInfo || showText || showButtons\">\n                        <h2 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title, .card-info\">Testimonios de pacientes</h2> <hr class=\"separator\">\n                        <div class=\"card-info\" mbr-class=\"{'pt-3': showCardTitle}\" mbr-if=\"showInfo\">\n                            <div class=\"info-wrapper\">\n                                <span mbr-icon class=\"mbr-iconfont mbri-magic-stick\"></span>\n                                <p class=\"mbr-text info-text mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-4\" data-app-selector=\".info-text\"><b>Ciática, lumbaliga, lumbaliga, lumbaliga lumbaliga</b><br></p></div>\n                        </div>\n                        <p class=\"mbr-text card-text mbr-fonts-style mbr-lighter\" mbr-class=\"{'pt-3': showCardTitle || showInfo,\n                                       'm-0': !showButtons}\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".card-text, .card-btn\">Mejoramos  tus síntomos aplicando las más novedosas técnicas, evitano posibles opeaciones y toma de medicamentos.<br></p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn card-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"testimonios.html\" class=\"btn btn-lg btn-primary\" data-app-placeholder=\"Type Text\">Ver</a></div>\n                        <div class=\"card-footer\" mbr-if=\"iconsCountFirst > 0\">\n                            <ul mbr-list mbr-list-grow=\"iconsCountFirst\" class=\"icons-list list-inline align-left\">\n                                <li class=\"list-inline-item\">\n                                    <span mbr-icon class=\"mbr-iconfont mbri-responsive\"></span>\n                                </li>\n                                \n                                \n                            </ul>\n                            <div class=\"link\">\n                                <div mbr-text class=\"link-text mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-4\" data-app-selector=\".link-text\">\n                                    <a href=\"https://mobirise.com/\" class=\"text-info\">LEER MÁS</a>\n                                </div>\n                                <span mbr-icon class=\"mbr-iconfont mbri-arrow-next\"></span>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card col-md-10\" mbr-class=\"{'col-lg-8': cardsAmount == 1,\n                             'col-lg-6': cardsAmount == 2,\n                             'col-lg-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <a href=\"beneficios.html\"><img src=\"@PROJECT_PATH@/assets/images/beneficios-700x467.jpg\" alt=\"Beneficios\" title=\"Los grandes beneficios que apartan los tratamientos\"></a>\n                    </div>\n                    <div class=\"card-box\" mbr-if=\"showCardTitle || showInfo || showText || showButtons\">\n                        <h2 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title, .card-info\">Los Beneficios</h2> <hr class=\"separator\">\n                        <div class=\"card-info\" mbr-class=\"{'pt-3': showCardTitle}\" mbr-if=\"showInfo\">\n                            <div class=\"info-wrapper\">\n                                <span mbr-icon class=\"mbr-iconfont mbri-paper-plane\"></span>\n                                <p class=\"mbr-text info-text mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-4\" data-app-selector=\".info-text\"><b>Experto en </b><br><b>Coaching terapéutico SANE</b><br></p>\n                              \n                            </div>\n                        </div>\n                        <p class=\"mbr-text card-text mbr-fonts-style mbr-lighter\" mbr-class=\"{'pt-3': showCardTitle || showInfo,\n                                       'm-0': !showButtons}\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".card-text, .card-btn\">Mentoring y Acompañamiento de élite a Directivos, Deportistas, Artistas, CEOs, altos mandos y grupos.&nbsp;<br><br></p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn card-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"beneficios.html\" class=\"btn btn-lg btn-primary\" data-app-placeholder=\"Type Text\">\n                                Ver</a></div>\n                        <div class=\"card-footer\" mbr-if=\"iconsCountSecond > 0\">\n                            <ul mbr-list mbr-list-grow=\"iconsCountSecond\" class=\"icons-list list-inline align-left\">\n                                <li class=\"list-inline-item\">\n                                    <span mbr-icon class=\"mbr-iconfont mbri-responsive\"></span>\n                                </li>\n                                \n                                \n                            </ul>\n                            <div class=\"link\">\n                                <div mbr-text class=\"link-text mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-4\" data-app-selector=\".link-text\">\n                                    <a href=\"https://mobirise.com/\" class=\"text-info\">LEER MÁS</a>\n                                </div>\n                                <span mbr-icon class=\"mbr-iconfont mbri-arrow-next\"></span>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card col-md-10\" mbr-class=\"{'col-lg-8': cardsAmount == 1,\n                             'col-lg-6': cardsAmount == 2,\n                             'col-lg-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <a href=\"podemos-ayudarte.html\"><img src=\"@PROJECT_PATH@/assets/images/ayuda-700x467.jpg\" alt=\"Podemos ayudarte\" title=\"Conoce las dolencias que podemos tratar con la quiropráctia\"></a>\n                    </div>\n                    <div class=\"card-box\" mbr-if=\"showCardTitle || showInfo || showText || showButtons\">\n                        <h2 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title, .card-info\">Podemos ayudarte</h2> <hr class=\"separator\">\n                        <div class=\"card-info\" mbr-class=\"{'pt-3': showCardTitle}\" mbr-if=\"showInfo\">\n                            <div class=\"info-wrapper\">\n                                <span mbr-icon class=\"mbr-iconfont mbri-hearth\"></span>\n                                <p class=\"mbr-text info-text mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-4\" data-app-selector=\".info-text\"><b>Embarazadas, problemas de sobre peso, deportistas...</b><br></p>\n                            </div>\n                        </div>\n                        <p class=\"mbr-text card-text mbr-fonts-style mbr-lighter\" mbr-class=\"{'pt-3': showCardTitle || showInfo,\n                                       'm-0': !showButtons}\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".card-text, .card-btn\">\n                            Mejoramos su salud con una dieta especializada y personalizada, te asesoreremos sobre los buenos hábitos para una correcta alimentación.</p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn card-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"podemos-ayudarte.html\" class=\"btn btn-lg btn-primary\" data-app-placeholder=\"Type Text\">\n                                Ver</a></div>\n                        <div class=\"card-footer\" mbr-if=\"iconsCountThird > 0\">\n                            <ul mbr-list mbr-list-grow=\"iconsCountThird\" class=\"icons-list list-inline align-left\">\n                                <li class=\"list-inline-item\">\n                                    <span mbr-icon class=\"mbr-iconfont mbri-responsive\"></span>\n                                </li>\n                                \n                                \n                            </ul>\n                            <div class=\"link\">\n                                <div mbr-text class=\"link-text mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-4\" data-app-selector=\".link-text\">\n                                    <a href=\"https://mobirise.com/\" class=\"text-info\">LEER MÁS</a>\n                                </div>\n                                <span mbr-icon class=\"mbr-iconfont mbri-arrow-next\"></span>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_anchor": "features15-hz",
+          "_isUserblock": true,
+          "_sourceTheme": "hotelm4",
+          "_cid": "rkCI1dw33W",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
