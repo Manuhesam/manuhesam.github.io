@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam",
-    "currentPage": "contacto.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -57,7 +57,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "Utilizamos cookies para el buen funcionamiento de la web.  <a href='cookies.html'>Política de Cookies</a>.",
+    "cookiesAlert": "Su privacidad es importante para nosotros\r\nUtilizamos cookies en nuestro sitio web para personalizar contenido y publicidad, proporcionar funcionalidades a las redes sociales, o analizar nuestro tráfico. Haciendo click consiente el uso de esta tecnología en nuestra web. Puede cambiar de opinión y personalizar su consentimiento siempre que quiera volviendo a esta web.\r\n<a href='cookies.html'>Modificar (política de cookies)</a>.",
     "gdpr": "Acpeto la ley de protección de datos RGPD<a href='legal.html'> ver RGPD</a>",
     "siteUrl": "https://manuhesam.com",
     "sitemapSwitcherAuto": "on",
