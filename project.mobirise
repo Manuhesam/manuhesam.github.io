@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam",
-    "currentPage": "legal.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,7 +66,7 @@
     "robotsSwitcher": "on",
     "сanonical-url": "",
     "witsec-form-subject": "Mobirise Form",
-    "witsec-language": ""
+    "witsec-language": "es"
   },
   "pages": {
     "index.html": {
