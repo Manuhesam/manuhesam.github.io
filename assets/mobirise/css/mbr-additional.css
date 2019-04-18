@@ -14147,14 +14147,57 @@ body {
 .cid-r5wNwAD9Z0 a.text-black:focus {
   color: #0f7699!important;
 }
+@primaryColor: #149dcc;
+@secondaryColor: #ffffff;
+@successColor: #86d5ef;
+@infoColor: #82786E;
+@warningColor: #879A9F;
+@dangerColor: #053140;
+@mainFont: Rubik;
+@display1Font: 'Gilda Display', serif;
+@display1Size: 3;
+@display2Font: 'Gilda Display', serif;
+@display2Size: 2.6;
+@display5Font: 'Gilda Display', serif;
+@display5Size: 1.8;
+@display7Font: 'Gilda Display', serif;
+@display7Size: 1.2;
+@display4Font: 'Roboto', sans-serif;
+@display4Size: 1;
+@isRoundedButtons: true;
+@isAnimatedOnScroll: false;
+@isScrollToTopButton: false;
+@isPublish: true;
+
 .cid-riDp4pn9CS {
-  background-image: url("../../../assets/images/mbr-1920x1278.jpg");
+@showLogo: false;
+@logoSize: 3.8;
+@showBrand: true;
+@showItems: true;
+@itemsHoverColor: #149dcc;
+@showButtons: true;
+@sticky: true;
+@collapsed: false;
+@transparent: false;
+@hamburgerColor: #232323;
+@menuBgColor: #ffffff;
+
+& when not (@fullScreen) {
+  padding-top: (@paddingTop * 15px);
+  padding-bottom: (@paddingBottom * 15px);
 }
-.cid-riDp4pn9CS P {
+& when (@bg-type = 'color') {
+  background-color: @bg-value;
+}
+& when (@bg-type = 'image') {
+  background-image: url(../../../@bg-value);
+}
+P {
   color: #767676;
 }
-.cid-riDp4pn9CS H1 {
+H1 {
   color: #149dcc;
+}
 }
 .cid-r6JTgAFUMd .navbar-caption {
   letter-spacing: −200px!important;
