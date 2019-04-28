@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam-esp",
-    "currentPage": "index.html",
+    "currentPage": "quiropractica.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -74,7 +74,7 @@
         "main": true,
         "title": "Quiropráctico Barcelona | Centro Quiropráctico - 93 237 11 49",
         "meta_descr": "Centro quiropractia Barcelona,  Mejoramos tu calidad de vida en Quiropráctico Barcelona ✅ descuentos en tu 1ª Cita. ¡Llámanos ahora! ☎ 93 237 11 49.",
-        "header_custom": "<link rel=\"preload\" href=\"https://manuhesam.com/assets/images/portada.jpg\" as=\"image\">\n<link rel=\"canonical\" href=\"https://manuhesam.com/index.html/\" />\"\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>\n",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manuhesam.com\" />\"\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>\n",
         "footer_custom": "",
         "html_before": ""
       },
