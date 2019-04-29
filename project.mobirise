@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam-esp",
-    "currentPage": "quiropractica.html",
+    "currentPage": "citas-quiropractico.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Gilda+Display:400"
       }
     ],
-    "uniqCompNum": 800,
+    "uniqCompNum": 802,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -576,7 +576,7 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/familia-quiroractica.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-left\n                    \">\n            <div class=\"mbr-white offset-md-1 col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style cuadrado1\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><div><span style=\"font-weight: normal;\">Quiropráctico Barcelona</span></div></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">Consulta en Barcelona y París</h3>\n                <p class=\"mbr-text  pb-3 mbr-fonts-style cuadrado2\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Quiropráctico Barcelona te informa: La Quiropráctica es reconocida por la Organización Mundial de la Salud.<br><b>50% de descuento en tu primera visita.</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Coaching</a> <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Nutrición</a> <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Quiropráctica</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-arrow-down\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/familia-quiroractica.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-left\n                    \">\n            <div class=\"mbr-white offset-md-1 col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style cuadrado1\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><div><span style=\"font-weight: normal;\">Quiropráctico Barcelona</span></div></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">Consulta en Barcelona y París</h3>\n                <p class=\"mbr-text  pb-3 mbr-fonts-style cuadrado2\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Quiropráctico Barcelona te informa: La Quiropráctica es reconocida por la Organización Mundial de la Salud.<br><b>Esta primavera 50% de descuento en tu primera visita.</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Coaching</a> <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Nutrición</a> <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Quiropráctica</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-arrow-down\"></i>\n        </a>\n    </div>\n</section>",
           "_anchor": "header2-a1",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3187,7 +3187,7 @@
       "settings": {
         "meta_descr": "Centro quiropractia Barcelona, Coaching y Nutrición. El espacio y las salas de la consulta. ven a conocernos.",
         "title": "El espacio  | Centro Quiropractico Barcelona",
-        "order": 3,
+        "order": 4,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -4012,7 +4012,7 @@
       "settings": {
         "meta_descr": "La Columna Vertebral - A la columna vertebral se la ha apodado con el nombre poético y simbólico de «árbol de la vida».",
         "title": "Columna Vertebral  | Centro Quiropractico Barcelona",
-        "order": 8,
+        "order": 9,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -5407,7 +5407,7 @@
       "settings": {
         "meta_descr": "El Ajuste Quirpráctico - Información relevante y de interés. Centro Quiropáctico Barcelona. ",
         "title": "El ajuste Quiropráctico  | Centro Quiropractico Barcelona",
-        "order": 9,
+        "order": 10,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -7494,7 +7494,7 @@
       "settings": {
         "meta_descr": "Quirpráctica plan de tratamiento - El plan de tratamiento consite en 3 etapas. ",
         "title": "Plan de Tratamiento  | Centro Quiropractico Barcelona",
-        "order": 5,
+        "order": 6,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -8413,7 +8413,7 @@
       "settings": {
         "meta_descr": "¿Qué es la Quirporáctica? - El término ‘quiropráctica’ está compuesto por las raíces kheir y praktikos.",
         "title": "Qué es la quirpráctica  | Centro Quiropractico Barcelona",
-        "order": 7,
+        "order": 8,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -9958,7 +9958,7 @@
       "settings": {
         "meta_descr": "Actividades y eventos relacionados con la quiropráctica en barcelona, entrevistas al doctor en la consulta.",
         "title": "Actividades-eventos | Centro Quiropractico Barcelona",
-        "order": 13,
+        "order": 14,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -11124,7 +11124,7 @@
       "settings": {
         "meta_descr": "Quirpráctica Barcelona, resumen de las dolencias que podemos tratar, Dolor de espalda, Lumbalgia, Cervicalgia, Hernia discal, Escoliosis.",
         "title": "Qué síntomas tratamos | Centro Quiropractico Barcelona",
-        "order": 6,
+        "order": 7,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -13098,7 +13098,7 @@
       "settings": {
         "meta_descr": "Dr. Manu Mahan Hesam -> Biografía, Quiropráctico, Mentoring y Acompañamiento Personal de Élite, experto en Coaching Terapéutico.",
         "title": "Manu Mahan Hesam | Centro quiropractico Barcelona",
-        "order": 2,
+        "order": 3,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -13834,7 +13834,7 @@
       "settings": {
         "meta_descr": "Centro Nutricional y dietética en Barcelona. Mejoramos la salud de tu organismo. La calidad de vida de una persona depende del equilibrio general.",
         "title": "Nutricionista Barcelona | Clínica de nutrición en Barcelona",
-        "order": 11,
+        "order": 12,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -15186,7 +15186,7 @@
       "settings": {
         "meta_descr": "Coaching Barcelona ☝. Expertos en Coaching profesional en Barcelona. Metodología integral y programas personalizados, Directivos, Deportistas, Artistas, CEOs.",
         "title": "Coaching Barcelona | Profesionales en Coaching Personal",
-        "order": 10,
+        "order": 11,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -17359,7 +17359,7 @@
       "settings": {
         "meta_descr": "Contacto  quiropráctico.  Mejoramos el bienestar de las personas -  Av. Diagonal, 427, 1º 2ª.  ☎ Tel. 93 237 11 49",
         "title": "Contacto | Centro Quiropractico Barcelona",
-        "order": 14,
+        "order": 15,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -18110,7 +18110,7 @@
       "settings": {
         "meta_descr": "Mejores opiniones y testimonios sobre quiropráctia en Barcelona, opiniones de pacientes en vídeos de corta duración.  Muy interesantes.",
         "title": "Opiniones | Centro Quiropractico Barcelona",
-        "order": 12,
+        "order": 13,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -20758,7 +20758,7 @@
       "settings": {
         "meta_descr": "Quiropractica. Centro Quiropractico Barcelona 1º cita con Descuento. Sin lista de espera, el más reconocido y valorado.\n¡Te esperamos!",
         "title": "Quiropractica | Centro de Quiropractica en Barcelona |",
-        "order": 1,
+        "order": 2,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
@@ -21257,7 +21257,7 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/familia-quiroractica.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-left\n                    \">\n            <div class=\"mbr-white offset-md-2 col-md-8\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style cuadrado1\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><div><span style=\"font-weight: normal;\">Centro Quiropráctico</span></div></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubTitle\">Consulta en Barcelona y París</h3>\n                <p class=\"mbr-text  pb-3 mbr-fonts-style cuadrado2\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Consultas en Barcelona y París. \n<br>25.000 pacientes tratados con excelentes resultados.<br><br><b>Excepcionalmente esta primavera, 50% de descuento en la primera visita. \n<br>y el 25% en todos los tratamientos, ¡no te lo pierdas!</b><br><br>Av. Diagonal, 427, 1º 2ª<b> (Barcelona)</b><br></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Coaching</a> <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Nutrición</a> <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Quiropráctica</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-arrow-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/familia-quiroractica.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-left\n                    \">\n            <div class=\"mbr-white offset-md-2 col-md-8\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style cuadrado1\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><div><span style=\"font-weight: normal;\">Centro Quiropráctico</span></div></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubTitle\">Consulta en Barcelona y París</h3>\n                <p class=\"mbr-text  pb-3 mbr-fonts-style cuadrado2\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Consultas en Barcelona y París. \n<br>25.000 pacientes tratados con excelentes resultados.<br><br><b>Esta primavera 50% de descuento en tu primera visita.<br></b><br>Av. Diagonal, 427, 1º 2ª<b> (Barcelona)</b><br></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Coaching</a> <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Nutrición</a> <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Quiropráctica</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-arrow-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_anchor": "header2-l2",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -22156,7 +22156,7 @@
       "settings": {
         "meta_descr": "Citas Quiropráctico.  Mejoramos el bienestar de las personas -  Av. Diagonal, 427, 1º 2ª.  ☎ Tel. 93 237 11 49",
         "title": "Pedir Cita | Centro Quiropractico Barelona",
-        "order": 15,
+        "order": 16,
         "header_custom": ""
       },
       "components": [
@@ -22855,7 +22855,7 @@
       "settings": {
         "meta_descr": "Precios de las sesiones quiroprácticas, de la consulta del doctor Manu Mahan Hesam. Si tienes cualquier duda consúltanos.",
         "title": "Precios Quiropráctica",
-        "order": 4,
+        "order": 5,
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128691413-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-128691413-1');\n</script>"
       },
       "components": [
