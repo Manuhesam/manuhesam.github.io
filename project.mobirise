@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Hesam-esp",
-    "currentPage": "index.html",
+    "currentPage": "espacio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3799,13 +3799,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-4080-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4080-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-800x533.jpg",
                 "alt": "Despacho Consulta",
                 "title": "Despacho de la consulta del Doctor Manum Mahan Hesam",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -3857,7 +3857,7 @@
                 "title": "Vistas a la sala de Quiropráctica",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
